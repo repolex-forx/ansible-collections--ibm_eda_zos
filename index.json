@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ibm_eda_zos",
+  "versions": [
+    {
+      "commit": "f23538894ab59f759621f45adb0157136105c251",
+      "tag": "v1.1.0",
+      "parsed_at": "2026-11-07T16:46:56.362470+00:00"
+    }
+  ]
+}
