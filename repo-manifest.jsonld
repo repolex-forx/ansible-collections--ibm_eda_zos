@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm_eda_zos/commit/f23538894ab59f759621f45adb0157136105c251",
       "git:hexsha": "f23538894ab59f759621f45adb0157136105c251",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.1.0"
     },
     {
